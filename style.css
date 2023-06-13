@@ -62,10 +62,10 @@ header {
     border-radius: 8px;
   }
 
-  .product-image:hover {
+  /* .product-image:hover {
     filter: brightness(0.8);
     cursor: pointer;
-  }
+  } */
   
   .product-price-container {
     margin-top: 8px;
