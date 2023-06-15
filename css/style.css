@@ -157,7 +157,7 @@ header {
     border: 0;
     border-radius: 6px;
   
-    transition: filter 0.2s;
+    transition: filter 0.5s;
   }
   
   .remove-product-button:hover {
