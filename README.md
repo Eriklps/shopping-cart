@@ -2,7 +2,7 @@
 
 Shopping Cart
 
-I'm working on this project to learn about JavaScript. 📚
+I'm worked on this project to learn about JavaScript. 📚
 
 <p>
   <img src="assets/preview1.png" alt="project" width="100%">
